@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_308211_testing_c_testing_cicd_table",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-01-30 02:49:20",
+  "sys_id": "5fae91d72f660010862ea55df699b654",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_testing_c_testing_cicd_table",
+  "sys_package": "6bca195f2f260010862ea55df699b619",
+  "sys_policy": null,
+  "sys_scope": "6bca195f2f260010862ea55df699b619",
+  "sys_update_name": "sys_ui_section_5fae91d72f660010862ea55df699b654",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-01-30 02:49:20",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
